@@ -56,7 +56,7 @@ export const LoginContainer = () => {
                 <AuthFormHeader />
                 <div className="form-header-container">
                     <PrimaryTitle title='Iniciar Sesión' />
-                    <small>Ingresa tu email y contraseña para acceder a tu cuenta</small>
+                    <small>Usa el email admin@admin.com y password admin para acceder</small>
                 </div>
                 <form action="" className='form' onSubmit={handleEmptyFields}>
                     <div className="flex-auto mb-3">
