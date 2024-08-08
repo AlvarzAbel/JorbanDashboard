@@ -13,5 +13,5 @@ export default defineConfig({
       }
     })
   ],
-  base: "/jorbandapp"
+  base: "/jorbandapp/"
 })
