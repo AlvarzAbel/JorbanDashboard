@@ -12,5 +12,6 @@ export default defineConfig({
         enabled: true
       }
     })
-  ]
+  ],
+  base: "/jorbandapp"
 })
